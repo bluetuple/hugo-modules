@@ -31,13 +31,23 @@
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Urbanist';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   src: url('/webfonts/urbanist-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('/webfonts/urbanist-v10-latin-regular.ttf') format('truetype'); /* Safari, Android, iOS */
 
 }
 
 
+/* poppins-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/webfonts/poppins-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/poppins-v20-latin-regular.ttf') format('truetype'); /* Safari, Android, iOS */
+      
+}
 
 
  
