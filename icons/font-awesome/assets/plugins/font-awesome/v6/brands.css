@@ -33,7 +33,7 @@
   font-style: normal;
   font-weight: 400;
   src: url('/webfonts/urbanist-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/webfonts/urbanist-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/urbanist-v10-latin-regular.ttf') format('truetype'); /* Safari, Android, iOS */
 
 }
 
